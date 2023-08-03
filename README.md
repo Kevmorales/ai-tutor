@@ -4,13 +4,13 @@ AI Tutor is an interactive, web-based platform designed to educate users in both
 ## Features
 1. Multilingual Support: AI Tutor caters to a diverse audience by providing support in English and Swedish languages.
 
-2. Interactive Learning: Users can ask questions about stocks and investing, and AI Tutor will provide informative and easy-to-understand responses.
+2. Interactive Learning: Users can ask questions about said subject, and AI Tutor will provide informative and easy-to-understand responses.
 
 3. Quiz Functionality: AI Tutor includes a quiz feature to test users' understanding and provide feedback to reinforce learning.
 
 4. User Authentication: Users can create personal accounts to track their progress and achievements over time.
 
-5. Premium Subscription: AI Tutor offers a premium subscription for users who want to delve deeper into the world of stocks and investing, providing additional resources and unlimited daily usage.
+5. Premium Subscription: AI Tutor offers a premium subscription for users who want to delve deeper into the world of said subject, providing additional resources and unlimited daily usage.
 
 ## Local Development
 To set up AI Tutor for local development:
