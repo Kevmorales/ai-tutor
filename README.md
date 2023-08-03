@@ -1,5 +1,5 @@
 # AI Tutor
-AI Tutor is an interactive, web-based platform designed to educate users about stocks and investing in both English and Swedish languages. Powered by the OpenAI's ChatGPT API, AI Tutor delivers tailored learning experiences by answering users' questions, providing insights, and conducting quizzes to test understanding.
+AI Tutor is an interactive, web-based platform designed to educate users in both English and Swedish languages. Powered by the OpenAI's ChatGPT API, AI Tutor delivers tailored learning experiences by answering users' questions, providing insights, and conducting quizzes to test understanding.
 
 ## Features
 1. Multilingual Support: AI Tutor caters to a diverse audience by providing support in English and Swedish languages.
