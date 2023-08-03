@@ -7,7 +7,7 @@ import Login from './Login';
 import Signup from './Signup';
 import Dashboard from './Dashboard';
 import Profile from './Profile';
-import AiTutor from './AiTutor';
+import Chat from './Chat';
 
 const AppRouter: React.FC = () => {
     return (
@@ -18,7 +18,7 @@ const AppRouter: React.FC = () => {
                 <Route path="/signup" element={<Signup />} />
                 <Route path="/dashboard" element={<Dashboard />} />
                 <Route path="/profile" element={<Profile />} />
-                <Route path="/tutor" element={<AiTutor />} />
+                <Route path="/chat" element={<Chat />} />
             </Routes>
         </Router>
     );
